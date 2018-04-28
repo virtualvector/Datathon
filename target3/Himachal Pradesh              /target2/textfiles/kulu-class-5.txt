@@ -1,0 +1,98 @@
+NATIONAL COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING
+NATIONAL ACHIEVEMENT SURVEY - NAS
+(Survey of Learning Outcomes)
+District Report Card: 2017
+State: Himachal Pradesh District: Kullu
+Class: 5 Subject: Mathematics
+Schools: 61 Students: 660
+Participation/Coverage
+Students
+GENDER
+Boys
+Girls
+Number % Number %
+323 48.94 337 51.06
+Rural
+AREA
+Number % Number %
+586 88.79 74 11.21
+SC ST
+CATEGORY
+CWSN
+Urban
+OBC
+GEN
+Number % Number % Number % Number %
+263 39.85 19 2.88 20 3.03 358 54.24
+LD VI HI S&LD ID Oth
+1 0 0 1 3 2
+Government
+Management
+Government-aided
+Number % Number %
+660 100.00 0 0.00
+Average Performance of Students in Mathematics (%)
+Gender
+Area
+Management
+Social Group
+Overall
+44.74
+Male Female Rural Urban Govt. Aided
+44.54 44.93 46.20 33.15 44.74 0.00
+1
+SC
+ST
+OBC
+43.40 36.49 38.67
+GEN
+46.50Performance on Learning Outcomes (LOs)
+Learning
+Outcomes
+Average
+Performance(%)
+Description
+M401 Applies operations of numbers in daily life situations 25.15
+M412 Explores the area and perimeter of simple geometrical shapes
+(triangle, rectangle, square) in terms of given shape as a unit 46.04
+M418 Calculates time intervals/duration of familiar daily life events by using
+forward or backward counting/addition and subtraction 61.64
+M421 Represent the collected information in tables and bar graphs and
+draws inferences from these 47.12
+M501 Reads and writes numbers bigger than 1000 being used in her/his
+surroundings 57.73
+M504 Estimates sum, difference, product and quotient of numbers and
+verifies the same using different strategies like using standard
+algorithms or breaking a number and then using operation 40.36
+M505 Finds the number corresponding to part of a collection 55.04
+M506 Identifies and forms equivalent fractions of a given fraction 37.88
+M508 Converts fractions into decimals and vice versa 53.66
+M509 Classifies angles into right angle, acute angle, obtuse angle and
+represents the same by drawing and tracing 46.47
+M512 Relates different commonly used larger and smaller units of length,
+weight and volume and converts larger units to smaller units and vice
+versa 43.67
+M513 Estimates the volume of a solid body in known units. 28.35
+M514 Applies the four fundamental arithmetic operations in solving problems
+involving money, length, mass, capacity and time intervals 34.41
+M515 Identifies the pattern in triangular numbers and square number 34.09
+M516 Collects data related to various daily life situations, represents it in
+tabular form and as bar graphs and interprets it 64.46
+Range of Performance of Students who Answered Correctly
+Below 30%
+30% - 50%
+50% - 75%
+Above 75%
+Number % Number % Number % Number %
+192 29.09 222 33.64 179 27.12 67 10.15
+Lowest Performing Learning Outcomes (LOs)
+1 - Applies operations of numbers in daily life situations (25.15)
+2 - Estimates the volume of a solid body in known units. (28.35)
+3 - Identifies the pattern in triangular numbers and square number (34.09)
+4 - Applies the four fundamental arithmetic operations in solving problems involving money, length, mass, capacity and
+time intervals (34.41)
+5 - Identifies and forms equivalent fractions of a given fraction (37.88)
+CSWN:
+LD- Locomotor Disability; VI- Visual Impairment; HI- Hearing Impairment;
+S&LD- Speech and Language Disability; ID- Intellectual Disability; Oth- Other Disability.
+2

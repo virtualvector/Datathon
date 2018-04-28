@@ -1,0 +1,73 @@
+for i in my_list:
+    curr_data = data_list[i]
+    
+    if(i==4):
+        curr_data=curr_data.strip().split(':')
+        appender.append(curr_data[-1])
+        print curr_data[-1]
+        
+    if(i==6):
+        curr_data=curr_data.strip().split()
+        print curr_data[1]
+        appender.append(curr_data[1])
+        
+    if(i==5):
+        curr_data=curr_data.strip().split()
+        print curr_data
+        appender.append(curr_data[3])
+        appender.append(curr_data[1])
+        print curr_data[3],curr_data[1]
+        
+    if(i==13):
+        curr_data=curr_data.strip().split()
+        appender.append(curr_data[0])
+        appender.append(curr_data[2])
+        print curr_data[0],curr_data[2]
+        
+    if(i==17):
+        curr_data=curr_data.strip().split()
+        print curr_data
+        appender.append(curr_data[0])
+        appender.append(curr_data[2])
+        print curr_data[0],curr_data[2]
+        
+    if(i==25):
+        curr_data=curr_data.strip().split()
+        print curr_data
+        appender.append(curr_data[0])
+        appender.append(curr_data[2])
+        appender.append(curr_data[4])
+        appender.append(curr_data[6])
+        print curr_data[0],curr_data[2],curr_data[4],curr_data[6]
+        
+    if(i==41):
+        curr_data=curr_data.strip().split()
+        print curr_data
+        appender.append(curr_data[0])
+        appender.append(curr_data[1])
+        appender.append(curr_data[2])
+        appender.append(curr_data[3])
+        
+        
+        
+    if(i==46):
+        curr_data=curr_data.strip().split()
+        print curr_data
+        appender.append(curr_data[0])
+        appender.append(curr_data[1])
+        appender.append(curr_data[2])
+        print curr_data[0],curr_data[1],curr_data[2]
+        
+    if(i==48):
+        curr_data=curr_data.strip().split()
+        print curr_data[0][:5]
+        appender.append(curr_data[0][:5])
+        
+    
+        
+        
+        
+        
+        
+        
+    

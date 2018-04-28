@@ -1,0 +1,10 @@
+we also calculated pearsons correlation coefficient for each class
+
+Please refer the xlsx file for supporting data and plots
+
+Class 3 :   -0.0350777726       
+Class 5 :   0.3431842599        //Moderately Positively correlated
+Class 8 :   0.2164707031        //Moderately Positively correlated
+
+So we conclude from the above data that they are moderately positively
+correlated

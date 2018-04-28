@@ -1,0 +1,105 @@
+NATIONAL COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING
+NATIONAL ACHIEVEMENT SURVEY - NAS
+(Survey of Learning Outcomes)
+District Report Card: 2017
+State: Himachal Pradesh District: Sirmaur
+Class: 8 Subject: Mathematics
+Schools: 51 Students: 1241
+Participation/Coverage
+Students
+GENDER
+Boys
+Girls
+Number % Number %
+547 44.08 694 55.92
+Rural
+AREA
+Urban
+Number % Number %
+1156 93.15 85 6.85
+SC
+CATEGORY
+CWSN
+ST
+OBC
+GEN
+Number % Number % Number % Number %
+553 44.56 18 1.45 240 19.34 430 34.65
+LD VI HI S&LD ID Oth
+2 0 6 3 1 49
+Government
+Management
+Government-aided
+Number % Number %
+1241 100.00 0 0.00
+Average Performance of Students in Mathematics (%)
+Gender
+Area
+Management
+Social Group
+Overall
+30.24
+Male Female Rural Urban Govt. Aided
+28.91 31.29 30.84 22.12 30.24 0.00
+1
+SC
+ST
+OBC
+29.25 26.30 26.69
+GEN
+33.66Performance on Learning Outcomes (LOs)
+Learning
+Outcomes
+Average
+Performance(%)
+Description
+M601 Solves problems involving large numbers by applying appropriate
+operations 29.70
+M606 Solves problems on daily life situations involving addition and
+subtraction of fractions / decimals 34.53
+M620 Finds out the perimeter and area of rectangular objects in the
+surroundings like floor of the class room, surfaces of a chalk box etc. 28.29
+M621 Arranges given/collected information in the form of table, pictograph
+and bar graph and interprets them 18.20
+M702 Interprets the division and multiplication of fractions 34.00
+M705 Solves problems related to daily life situations involving rational
+numbers 20.15
+M706 Uses exponential form of numbers to simplify problems involving
+multiplication and division of large numbers 26.59
+M707 Adds/subtracts algebraic expressions 32.88
+M710 Solves problems related to conversion of percentage to fraction and
+decimal and vice versa 16.89
+M717 Finds out approximate area of closed shapes by using unit square
+grid/graph sheet 25.19
+M719 Finds various representative values for simple data from her/his daily
+life contexts like mean, median and mode 45.86
+M721 Interprets data using bar graph 43.98
+M801 Generalizes properties of addition, subtraction, multiplication and
+division of rational numbers through patterns 24.75
+M802 Finds rational numbers between two given rational numbers 30.43
+M803 Proves divisibility rules of 2, 3,4, 5, 6, 9 and 11 40.90
+M804 Finds squares, cubes, square roots and cube roots of numbers using
+different methods 30.94
+M808 Uses various algebraic identities in solving problems of daily life 39.97
+M812 Verifies properties of parallelogram and establishes the relationship
+between them through reasoning 26.33
+M818 Finds surface area and volume of cuboidal and cylindrical object 13.71
+M819 Draws and interprets bar charts and pie charts 27.56
+Range of Performance of Students who Answered Correctly
+Below 30%
+30% - 50%
+50% - 75%
+Above 75%
+Number % Number % Number % Number %
+665 53.59 371 29.90 192 15.47 13 1.05
+Lowest Performing Learning Outcomes (LOs)
+1 - Finds surface area and volume of cuboidal and cylindrical object (13.71)
+2 - Solves problems related to conversion of percentage to fraction and decimal and vice versa (16.89)
+3 - Arranges given/collected information in the form of table, pictograph and bar graph and interprets them (18.20)
+24 - Solves problems related to daily life situations involving rational numbers (20.15)
+5 - Generalizes properties of addition, subtraction, multiplication and division of rational numbers through patterns
+(24.75)
+CSWN:
+LD- Locomotor Disability; VI- Visual Impairment; HI- Hearing Impairment;
+S&LD- Speech and Language Disability; ID- Intellectual Disability; Oth- Other Disability.
+3

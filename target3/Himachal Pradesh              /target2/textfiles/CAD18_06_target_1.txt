@@ -1,0 +1,9 @@
+Procedure/Approach
+
+1. We first converted all the pdf's corresponding to all districts and created
+corredsponging text files for each using pdfMiner in python
+
+2.Once we had text versions of the pdf's we parsed each file and converted it as key value pairs , and automated the
+process of selecting corresponding attributes and created a dataframe in pandas.
+
+3. we finally wrote everything to a csv file as required.

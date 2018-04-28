@@ -1,0 +1,92 @@
+NATIONAL COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING
+NATIONAL ACHIEVEMENT SURVEY - NAS
+(Survey of Learning Outcomes)
+District Report Card: 2017
+State: Himachal Pradesh District: Kinnaur
+Class: 3 Subject: Mathematics
+Schools: 60 Students: 326
+Participation/Coverage
+Students
+GENDER
+Boys
+Girls
+Number % Number %
+147 45.09 179 54.91
+Rural
+AREA
+Urban
+Number % Number %
+326 100.00 0 0.00
+SC
+CATEGORY
+CWSN
+ST
+OBC
+GEN
+Number % Number % Number % Number %
+113 34.66 90 27.61 14 4.29 109 33.44
+LD VI HI S&LD ID Oth
+0 0 1 1 1 0
+Government
+Management
+Government-aided
+Number % Number %
+326 100.00 0 0.00
+Average Performance of Students in Mathematics (%)
+Gender
+Area
+Management
+Social Group
+Overall
+64.56
+Male Female Rural Urban Govt. Aided
+63.13 65.74 64.56 0.00 64.56 0.00
+1
+SC
+ST
+OBC
+67.26 65.70 61.90
+GEN
+61.16Performance on Learning Outcomes (LOs)
+Learning
+Outcomes
+Average
+Performance(%)
+Description
+M301 Reads and writes numbers up to 999 using place value 58.71
+M302 Compares numbers up to 999 based on their place values 84.36
+M303 Solves simple daily life problems using addition and subtraction of
+three digit numbers with and without regrouping 63.13
+M304 Constructs and uses the multiplication facts (up till 10) in daily life
+situations 62.27
+M305 Analyses and applies an appropriate number operation in the
+situation/ context 61.35
+M306 Explains the meaning of division facts by equal grouping/sharing and
+finds it by repeated subtraction 62.88
+M309 Identifies and makes 2D-shapes by paper folding, paper cutting on
+the dot grid, using straight lines etc. 77.64
+M311 Fills a given region leaving no gaps using a tile of a given shape 52.81
+M312 Estimates and measures length and distance using standard units
+like centimeters or meters & identifies relationships 29.73
+M317 Reads the time correctly to the hour using a clock/watch 77.61
+M318 Extends patterns in simple shapes and numbers 50.80
+M319 Records data using tally marks, represents pictorially and draws
+conclusions 80.67
+Range of Performance of Students who Answered Correctly
+Below 30%
+30% - 50%
+50% - 75%
+Above 75%
+Number % Number % Number % Number %
+23 7.06 62 19.02 132 40.49 109 33.44
+Lowest Performing Learning Outcomes (LOs)
+1 - Estimates and measures length and distance using standard units like centimeters or meters & identifies relationships
+(29.73)
+2 - Extends patterns in simple shapes and numbers (50.80)
+3 - Fills a given region leaving no gaps using a tile of a given shape (52.81)
+4 - Reads and writes numbers up to 999 using place value (58.71)
+5 - Analyses and applies an appropriate number operation in the situation/ context (61.35)
+CSWN:
+LD- Locomotor Disability; VI- Visual Impairment; HI- Hearing Impairment;
+S&LD- Speech and Language Disability; ID- Intellectual Disability; Oth- Other Disability.
+2
